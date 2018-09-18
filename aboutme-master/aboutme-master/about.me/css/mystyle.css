@@ -1,0 +1,35 @@
+body,html {
+    background-color: rgb(171, 222, 241);
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+i{
+    font-size:60px;
+
+}
+
+#content-wrapper{
+    width:600px;
+    margin:0 auto;
+}
+
+img {
+    display: block;
+    margin:0 auto;
+    border:5px solid rgb(19, 3, 248);
+    border-radius: 300px;
+}
+
+ul > li {
+    display: inline;
+    margin: 0 82px 0 20px;
+    width: 200px;
+    margin: center;
+}
+
+
